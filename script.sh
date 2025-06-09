@@ -2,3 +2,4 @@
 
 
 echo "はじめてのgithub"
+hello
